@@ -1,0 +1,4 @@
+.fastapi_mcp_env
+.env
+app/__pycache__
+__pycache__
